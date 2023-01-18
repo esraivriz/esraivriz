@@ -48,3 +48,6 @@ I believe myself to be a consistently upbeat individual that is productive, quic
 <br>
 <br>
 <br>
+
+
+![snake gif](https://github.com/esraivriz/esraivriz/blob/output/github-contribution-grid-snake.gif)
