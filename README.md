@@ -29,6 +29,7 @@ I believe myself to be a consistently upbeat individual that is productive, quic
 [java]: https://www.java.com/
 [selenium]: https://www.selenium.dev/
 [postgresql]: https://www.postgresql.org/
+
 [sql]: https://www.w3schools.com/sql/
 [html]: https://www.w3schools.com/html/
 [github]: https://github.com/esraivriz
@@ -48,6 +49,7 @@ I believe myself to be a consistently upbeat individual that is productive, quic
 <br>
 <br>
 <br>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=esraivriz&&style=flat-square" align="center" />
