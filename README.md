@@ -49,5 +49,9 @@ I believe myself to be a consistently upbeat individual that is productive, quic
 <br>
 <br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=esraivriz&&style=flat-square" align="center" />
+</div>
+
 
 ![snake gif](https://github.com/esraivriz/esraivriz/blob/output/github-contribution-grid-snake.gif)
