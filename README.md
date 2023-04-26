@@ -34,7 +34,8 @@ I believe myself to be a consistently upbeat individual that is productive, quic
 [github]: https://github.com/esraivriz
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
-[testng]: https://testng.org/doc/[linkedin]:https://www.linkedin.com/in/esra-ivriz/
+[testng]: https://testng.org/doc/
+[linkedin]:https://www.linkedin.com/in/esra-ivriz/
 <h3> Tools I Use:</h3>
 [<a href="https://www.jetbrains.com/idea/features/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" alt="IntelliJ" width="40" height="40"/> </a>][intellij]
 [<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
