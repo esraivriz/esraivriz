@@ -25,8 +25,7 @@ I believe myself to be a consistently upbeat individual that is productive, quic
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-[vscode]: https://code.visualstudio.com/
-[java]: https://www.java.com/
+[vscode]: https://code.visualstudio.com/[java]: https://www.java.com/
 [selenium]: https://www.selenium.dev/
 [postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
@@ -57,3 +56,8 @@ I believe myself to be a consistently upbeat individual that is productive, quic
 
 
 ![snake gif](https://github.com/esraivriz/esraivriz/blob/output/github-contribution-grid-snake.gif)
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=esraivriz&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=esraivriz&show_icons=true&theme=radical)
+
